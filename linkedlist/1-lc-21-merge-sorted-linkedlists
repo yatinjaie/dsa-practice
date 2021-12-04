@@ -29,5 +29,5 @@ class Solution {
         
     }
 }
-//TC : O(n+m)
+//TC : O(max(n,m))
 //SC : O(1)
